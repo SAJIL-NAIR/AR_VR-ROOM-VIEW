@@ -2,7 +2,7 @@
 
 An immersive **Virtual Reality (VR) room exploration project** that lets users experience and navigate a virtual indoor environment through a browser-based 3D experience.
 
-Built using modern web technologies, the project demonstrates how interactive 3D environments can create engaging virtual walkthroughs without requiring a traditional desktop application.
+Built using modern web technologies, the project demonstrates how interactive 3D environments can create engaging virtual walkthroughs without requiring a traditional desktop application. Works on both androids and desktop.
 
 ## 🌐 Live Demo
 
@@ -41,7 +41,7 @@ cd AR-ROOM-VIEW
 
 ### 3. Run locally
 
-Open the project using a local development server, such as the **Live Server** extension in Visual Studio Code.
+Open the project using a local development server, such as the **Live Server** extension in Visual Studio Code....
 
 Alternatively, explore the deployed version:
 
