@@ -61,7 +61,7 @@ To demonstrate the use of real-time 3D rendering and interactive web technologie
 
 ## 👨‍💻 Author
 
-**Sajil Nair**
+**Sajil S Nair**
 
 - GitHub: [@SAJIL-NAIR](https://github.com/SAJIL-NAIR)
 - Portfolio: [sajil-nair.github.io](https://sajil-nair.github.io/)
